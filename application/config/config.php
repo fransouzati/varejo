@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/josnel/';
+$config['base_url']	= 'http://localhost/mixbzr-sis/';
 
 /*
 |--------------------------------------------------------------------------
