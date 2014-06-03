@@ -1,4 +1,5 @@
 <?php
+// 2 - Alteração no Index pelo Peixe - 03/06/2014
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
